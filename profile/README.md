@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/113919501/232240772-3ebf6c5e-ff16-45e9-9048-eef0bdd3431f.png" align="right" width="35%" alt="Electrical Engineering Faculty of Sarajevo logo">
 
-Welcome to my ETF materials! This organization is a collection of my academic materials from the courses I've taken at the Electrical Engineering Faculty of Sarajevo. 
+Welcome to my ETF materials! This organization is a collection of my academic materials from the courses I've taken at the Electrical Engineering Faculty of Sarajevo.
 
 ## About
 
